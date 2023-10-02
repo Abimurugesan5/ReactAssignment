@@ -1,0 +1,48 @@
+.cards {
+    width: 220px;
+    height: 120px;
+    border-radius: 10px;
+    background: #FFFFFF;
+    box-shadow: 5px 5px 5px  #F8FAFF;
+     display: grid;
+     gap:10px;
+     margin-left: 50px;
+     margin-top: 28px;
+     border-width: 1px, 1px, 1px, 2px;
+
+border-style: solid;
+
+border-color: #EAEAEA;
+
+
+    
+ }
+.dirction{
+    background: #F8FAFF;
+}
+.cards img{
+    width: 31.83px;
+    height: 31.83px;
+    margin-top: 10.31px;
+    margin-left: 20px
+    
+}
+.cards p{
+font-size: 11px;
+font-weight: 400;
+line-height: 13px;
+letter-spacing: 0em;
+text-align: left;
+margin-left: 18px;
+
+}
+.cards h2{
+    font-family: Open Sans;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 18px;
+     
+}
